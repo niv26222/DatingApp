@@ -66,3 +66,8 @@
 /Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/DatingApp.API.runtimeconfig.json
 /Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/DatingApp.API.runtimeconfig.dev.json
+/Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/niv25/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
