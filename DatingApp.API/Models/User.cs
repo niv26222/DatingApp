@@ -10,6 +10,8 @@ namespace DatingApp.API.Models
 
         public byte[] PasswordSalt { get; set; }
 
+        //DB Model
+
 
     }
 }
