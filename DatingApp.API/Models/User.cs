@@ -12,6 +12,5 @@ namespace DatingApp.API.Models
 
         //DB Model
 
-
     }
 }
